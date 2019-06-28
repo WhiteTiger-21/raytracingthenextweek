@@ -39,7 +39,13 @@ critical motion blur error. Thanks to Andrew Kensler, Thiago Ize, and Ingo Wald 
 ray-AABB tests. Thanks to David Hart and Grue Debry for help with a bunch of the details. Thanks to
 Jean Buckley for editing.
 
-
+日本語翻訳について
+-------------
+このリポジトリは、[WhiteTiger-21]が翻訳をしています。
+間違いなどのお問合わせはissueや[Twitter of WhiteTiger-21]へのDMへお願いします。
+なにかしらでお声をかけてくださると幸いです(おすすめのエナジードリンクの話題からAmazonのほしいものリストについて、並列化についてなど)
+レイトレーシングのプログラミングを解説してくださる皆様に感謝します。
+Thank you a lot to all concerned in Ray Tracing.
 
 [Amazon.com]:                 https://amazon.com/dp/B01CO7PQ8C
 [directly from GitHub]:     https://github.com/petershirley/raytracingthenextweek/releases/
@@ -47,3 +53,5 @@ Jean Buckley for editing.
 [Ray Tracing In One Weekend]: https://github.com/petershirley/raytracinginoneweekend/
 [Real-Time Rendering]:        http://www.realtimerendering.com/#books-small-table
 [submit issues via GitHub]:   https://github.com/petershirley/raytracingthenextweek/issues/
+[WhiteTiger-21]:   https://github.com/WhiteTiger-21
+[Twitter of WhiteTiger-21]:	https://twitter.com/WhiteTiger_21_s
